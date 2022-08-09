@@ -29,16 +29,16 @@
         "stikerin",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/fokusdotid/family-md",
+    "homepage": "https://github.com/arisha27/family-md",
     "author": {
         "name": "Fokus ID"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/fokusdotid/family-md.git"
+        "url": "git+https://github.com/arisha27/family-md.git"
     },
     "bugs": {
-        "url": "https://github.com/fokusdotid/family-md/issues"
+        "url": "https://github.com/arisha27/family-md/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
