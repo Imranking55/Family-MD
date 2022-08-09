@@ -1,12 +1,11 @@
-const qrku = "https://i.ibb.co/MnbqZ0N/qr-Aguz-Familia-07-06-22-1654614928.png"
+const qrku = "https://i.ibb.co/Lz16B53/In-Shot-20220808-184349490.jpg"
 
 let handler = async (m, { conn, usedPrefix }) => conn.sendButtonImg(m.chat, qrku, `
 ╭─「 Donasi • Dana 」
-│ • Telkomsel [081320170984]
-│ • Dana  [081320170984]
+│ • easypaisa [03220663009]
 ╰────
 ╭─「 *NOTE* 」
-│ > Ingin donasi? Wa.me/6281320170984
+│ > Ingin donasi? Wa.me/923072291944
 │ _Hasil donasi akan digunakan buat sewa_
 │ _atau beli *RDP/VPS* agar bot bisa jalan_
 │ _24jam tanpa kendala_
