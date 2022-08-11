@@ -19,8 +19,8 @@ const defaultMenu = {
 │
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
-├ Github:
-├ %github
+├ Owner:
+├ wa.me/923072291944
 └────
 %readmore`.trim(),
   header: '┌─〔 %category 〕',
